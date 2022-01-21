@@ -1,0 +1,59 @@
+body{
+    
+    background: linear-gradient(#6c5b7b 10%,#355c7d 100%);
+}
+
+
+
+#number2{background-color:#ec5475;
+    height: 300;
+    width: 300;
+    border-width: 1px;
+    border-color: black;
+    font-size: 50;
+    text-align: center;
+
+}
+#number1{background-color:#ec5475;
+     height: 300;
+     width: 300;
+     border-width: 1px;
+    border-color: black;
+    font-size: 50;
+    text-align: center;
+ }
+
+
+ #number2div{background-color:#69ddc0;
+    height: 300;
+    width: 300;
+}
+#number1div{background-color:#69ddc0;
+     height: 300;
+     width: 300;
+ }
+
+
+ h2{
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-size: 36px;
+}
+#nameplayer1 , #nameplayer2 ,#player2_score,#player1_score
+{
+	display: inline-block;
+	margin-left: 20px;
+    font-size: 30px;
+}
+
+#send{
+    background-color:#437199;
+    color: white;
+    border-color: black;
+    font-size: 20;
+}
+
+#send:hover {
+    background-color: rgb(127, 170, 173);
+  }
